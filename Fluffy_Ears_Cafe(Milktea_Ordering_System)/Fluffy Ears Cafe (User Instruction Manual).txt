@@ -1,0 +1,24 @@
+FLUFFY EARS CAFE (MILKTEA ORDERING SYSTEM) USER INSTRUCTION MANUAL
+1.	Open the application.
+2.	On the welcome screen, click the "Click Here to Order" button to start ordering.
+3.	Select your preferred order type:
+4.	Dine In or Takeout
+5.	Choose your desired milk tea flavor from the menu.
+6.	Customize your order by selecting:
+7.	Size
+8.	Sugar Level
+9.	Add-ons (if available)
+10.	Quantity
+11.	Review your selected items and click the Proceed button.
+12.	At the checkout page, verify your order details.
+13.	Select your preferred payment method.
+14.	Confirm your order.
+15.	The system will generate and display a receipt containing the order summary and total amount.
+16.	Click Return to Start if you wish to place another order.
+System Features:
+•	Dine In and Takeout Ordering
+•	Milk Tea Menu Selection
+•	Order Customization
+•	Checkout Processing
+•	Payment Selection
+•	Receipt Generation
